@@ -1,1 +1,2 @@
-# Evangadi_Exercise_Forking
+#bin/bash
+pwd
